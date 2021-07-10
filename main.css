@@ -77,7 +77,7 @@ button{
     text-align: center;
 }
 .img2 {
-    display: none;
+    visibility: hidden;
 }
 
 @media screen and (min-width: 1024px) {
@@ -86,6 +86,7 @@ body {
 }
 
 .img2 {
+    visibility: visible;
     float: right;
     width: 45%;
     height: 100vh;
