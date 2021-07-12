@@ -86,7 +86,7 @@ body {
 }
 
 .img2 {
-    visibility: visible;
+    display: inline;
     float: right;
     width: 45%;
     height: 100vh;
